@@ -1,1 +1,1 @@
-const client? = 
+const client? = () => {}

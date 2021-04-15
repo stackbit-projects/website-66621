@@ -1,1 +1,1 @@
-const isClient = () => {}
+const isDevelopment = () => {}
